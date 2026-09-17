@@ -1,0 +1,5 @@
+Compile
+>>javac LamportSnapshotAlgorithm.java
+
+Run
+>>java LamportSnapshotAlgorithm

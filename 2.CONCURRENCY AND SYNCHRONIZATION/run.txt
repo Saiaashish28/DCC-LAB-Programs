@@ -1,0 +1,5 @@
+Compile
+>>javac ProcSync.java
+
+Run Server
+>>java ProcSync

@@ -1,0 +1,9 @@
+Compile
+>>javac Hello.java HelloServer.java HelloClient.java
+
+Run Server
+>>java HelloServer
+
+Run Client
+Open a new terminal and run:
+>>java HelloClient

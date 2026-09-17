@@ -1,0 +1,9 @@
+Compile
+>>javac Adder.java AdderRemote.java AdderClient.java
+
+Run Server
+>>java AdderRemote
+
+Run Client
+Open a new terminal and run:
+>>java AdderClient

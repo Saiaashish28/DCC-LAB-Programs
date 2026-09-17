@@ -1,0 +1,5 @@
+Compile
+>>javac LamportLogicalClock.java
+
+Run
+>>java LamportLogicalClock

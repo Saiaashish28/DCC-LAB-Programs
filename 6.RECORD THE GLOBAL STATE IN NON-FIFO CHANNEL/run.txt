@@ -1,0 +1,5 @@
+Compile
+>>javac Process.java
+
+Run
+>>java Process

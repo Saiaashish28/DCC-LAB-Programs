@@ -1,0 +1,6 @@
+Compile
+>>javac VectorClocksExample.java
+
+Run
+>>java VectorClocksExample
+
